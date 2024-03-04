@@ -1,6 +1,6 @@
 # Notes
 
-Essa projeto foi criado segundo as aulas do __NLW Expert trilha de React__ realizado entre os dias __05/02/2024__ e __09/02/2024__, curso ministrado pelo Diego da RocketSeat /n
+Essa projeto foi criado segundo as aulas do __NLW Expert trilha de React__ realizado entre os dias __05/02/2024__ e __09/02/2024__, curso ministrado pelo Diego da RocketSeat
 
 ![imagem de apresentação do projeto notes](./public/image.png)
 
